@@ -1,1 +1,2 @@
-geos-*  # downloaded/compiled GEOS files.
+# downloaded/compiled GEOS files.
+geos-*
