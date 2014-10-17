@@ -1,2 +1,6 @@
 # downloaded/compiled GEOS files.
 geos-*
+
+# vim noise
+*.swp
+*.swo
